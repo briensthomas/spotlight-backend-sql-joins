@@ -32,3 +32,5 @@ To validate your queries, run `npm run test`.
 | 7 of Exercises 1-10 pass                       | 7      |
 | 3 of Exercises 11-16 pass                      | 3      |
 | Bonus 0.25 points for each additional Exercise | +1.5   |
+
+<!-- Small change for github -->
